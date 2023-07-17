@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl wood1
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.733333 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd frei/wood1.png
+
+newmtl freiburg2
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.643137 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd frei/freiburg2.png
+

@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl pine1_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.505882 0.494118
+Ks 0.330000 0.330000 0.330000
+map_Kd pine_1/pine1_png.png
+
+newmtl pine2_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.121569 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd pine_1/pine2_png.png
+
